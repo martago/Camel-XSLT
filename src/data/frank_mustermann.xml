@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person user="frank">
+  <firstName>Frank</firstName>
+  <lastName>Mustermann</lastName>
+  <city>Berlin</city>
+</person>
